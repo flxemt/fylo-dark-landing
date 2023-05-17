@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://i.imgur.com/1JrVqG3.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-using-tailwind-css-MQYZlgbmrq](https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-using-tailwind-css-MQYZlgbmrq)
+- Live Site URL: [https://fylo-landing-dark.netlify.app/](https://fylo-landing-dark.netlify.app/)
 
 ## My process
 
